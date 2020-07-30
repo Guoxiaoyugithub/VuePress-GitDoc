@@ -1,0 +1,16 @@
+{
+  "name": "git-doc",
+  "version": "1.0.0",
+  "description": "A plug-in of markdown component library based on vuepress.基于VuePress的Markdown组件化库插件。",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
